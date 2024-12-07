@@ -1,0 +1,15 @@
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\bin\Debug\net8.0\MusicGenerator.exe
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\bin\Debug\net8.0\MusicGenerator.deps.json
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\bin\Debug\net8.0\MusicGenerator.runtimeconfig.json
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\bin\Debug\net8.0\MusicGenerator.dll
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\bin\Debug\net8.0\MusicGenerator.pdb
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\obj\Debug\net8.0\MusicGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\obj\Debug\net8.0\MusicGenerator.AssemblyInfoInputs.cache
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\obj\Debug\net8.0\MusicGenerator.AssemblyInfo.cs
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\obj\Debug\net8.0\MusicGenerator.csproj.CoreCompileInputs.cache
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\obj\Debug\net8.0\MusicGenerator.sourcelink.json
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\obj\Debug\net8.0\MusicGenerator.dll
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\obj\Debug\net8.0\refint\MusicGenerator.dll
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\obj\Debug\net8.0\MusicGenerator.pdb
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\obj\Debug\net8.0\MusicGenerator.genruntimeconfig.cache
+C:\Users\vesel\Desktop\MusicGenerator\MusicGenerator\obj\Debug\net8.0\ref\MusicGenerator.dll
